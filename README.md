@@ -1,4 +1,7 @@
+---
+output: html_document
+---
 # GeneralTesting
 General testing related to coursework
 
-## test bigger head
+## test heading 2
